@@ -12,7 +12,6 @@ logo: "/assets/images/fum-cs-logo.png"
 favicon_ico: "/assets/images/fum-logo.ico"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
   CS Dept.:
     - 'https://fumcs.github.io'
   Mahmood Amintoosi:
