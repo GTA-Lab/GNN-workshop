@@ -1,35 +1,55 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+{: .mb-2 }
+Ferdowsi University of Mashhad, Spring 2024 (1402 SH)
+{: .mb-0 .fs-6 .text-grey-dk-000 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
-More specifically, the created site:
+<div>
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+  <div class="role">
+    {% for staffer in instructors %}
+    {{ staffer }}
+    {% endfor %}
+  </div>
+</div>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+# About
+{:.no_toc}
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Table of contents
+{: .no_toc .text-delta }
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+1. TOC
+{:toc}
 
-To get started with creating a site, simply:
+---
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+# Graph Neural Networks Workshop
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+This workshop is designed to guide you through the fundamental concepts of graph neural networks (GNNs) and their applications. The workshop is divided into two main sections. In the first part, you'll explore the principles of convolutional neural networks (CNNs) and how they can be applied to grid-structured data, such as images. You'll gain a solid understanding of the inner workings of CNNs and how the learned filters can be interpreted as adaptive feature extractors. This foundational knowledge will serve as a bridge to the exploration of graph neural networks in the second part of the workshop. In the second part, you'll dive deep into the world of graph-structured data and learn how GNNs can be leveraged to solve a variety of tasks, including node classification, graph classification, and graph regression. You'll have the opportunity to implement GNN models using the PyTorch Geometric library and apply them to real-world datasets, such as citation networks and molecular structures. Additionally, you'll explore the Cluster GCN architecture, which offers an efficient approach to scaling graph neural networks to large-scale datasets. By the end of this workshop, you'll be well-equipped to apply these powerful techniques to your own graph-based problems.
 
-----
+## Part I: Convolutional Neural Networks
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+In the first part of this workshop, we'll lay the foundation for understanding graph neural networks by revisiting the core concepts of convolutional neural networks (CNNs). We'll start by exploring the inner workings of CNNs, delving into the key components that enable them to effectively extract features from grid-structured data, such as images. To provide a hands-on learning experience, we'll introduce you to the PyTorch deep learning framework, which will serve as the backbone for our subsequent explorations. You'll have the opportunity to familiarize yourself with PyTorch's essential building blocks, including tensors, autograd, and neural network modules. Building on this, we'll dive into the implementation of multilayer perceptrons (MLPs) using PyTorch, giving you a solid grasp of the fundamental architecture of deep learning models.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+As we delve deeper into CNNs, we'll draw parallels between the learned weights in the convolutional layers and the filter weights used in traditional image processing techniques, such as edge detection. Just as the filter weights in edge detection algorithms are designed to identify changes in pixel intensities, the weights learned by the CNN layers can be thought of as adaptive filters that capture important visual features from the input data. By understanding this connection, you'll gain a more intuitive understanding of how CNNs can effectively extract meaningful information from images and other grid-structured data. This foundational knowledge will serve as a stepping stone towards your exploration of graph neural networks in the second part of the workshop.
+
+## Part II: Graph Neural Networks
+
+In the second part of the workshop, we'll dive deep into the realm of graph neural networks. We'll begin with a comprehensive introduction to graph data structures and the unique challenges they pose for machine learning models. To illustrate the power of graph-based representations, we'll explore the classic Karate Club dataset, a widely-used benchmark for evaluating graph learning algorithms.
+
+Next, we'll delve into the fundamentals of graph neural networks (GNNs) and their applications in node classification tasks. We'll review influential GNN research papers, such as those on Graph Convolutional Networks (GCNs), and discuss how these models can learn meaningful representations from graph-structured data. You'll have the opportunity to implement a GCN-based solution for node classification on the Karate Club dataset using the PyTorch Geometric (PyG) library.
+
+Building on this, we'll apply the principles of GNNs to a more complex real-world scenario – the task of citation network node classification. You'll learn how to leverage PyTG to design and train GNN models for predicting the characteristics of nodes (e.g., paper topics) in large-scale citation networks.
+
+Expanding our exploration, we'll investigate the application of graph neural networks in graph classification and regression tasks. You'll learn how to use PyTG to build models that can predict properties of entire graphs, such as classifying molecular structures or regressing on graph-level attributes.
+
+Finally, we'll explore the Cluster GCN architecture, which offers an efficient approach to scaling graph neural networks to large-scale datasets. You'll gain insights into the principles behind this technique and have the opportunity to experiment with it on real-world graph datasets.
+
+Throughout this second part of the workshop, you'll have ample hands-on experience with the PyTorch Geometric library, solidifying your understanding of how to design, implement, and train graph neural network models for a variety of tasks. By the end of this section, you'll be well-equipped to apply these powerful techniques to your own graph-based problems.
