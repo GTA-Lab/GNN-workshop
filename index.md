@@ -44,7 +44,7 @@ As we delve deeper into CNNs, we'll draw parallels between the learned weights i
 
 ## Part II: Graph Neural Networks in PyG
 
-In the second part of the workshop, we'll dive deep into the realm of graph neural networks. We'll begin with a comprehensive introduction to graph data structures and the unique challenges they pose for machine learning models. To illustrate the power of graph-based representations, we'll explore the classic Karate Club dataset, a widely-used benchmark for evaluating graph learning algorithms.
+In [the second part](https://fum-cs.github.io/graph-neural-networks) of the workshop, we'll dive deep into the realm of graph neural networks. We'll begin with a comprehensive introduction to graph data structures and the unique challenges they pose for machine learning models. To illustrate the power of graph-based representations, we'll explore the classic Karate Club dataset, a widely-used benchmark for evaluating graph learning algorithms.
 
 Next, we'll delve into the fundamentals of graph neural networks (GNNs) and their applications in node classification tasks. We'll review influential GNN research papers, such as those on Graph Convolutional Networks (GCNs), and discuss how these models can learn meaningful representations from graph-structured data. You'll have the opportunity to implement a GCN-based solution for node classification on the Karate Club dataset using the PyTorch Geometric (PyG) library.
 
