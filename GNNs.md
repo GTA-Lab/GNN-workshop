@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Graph Neural Networks in PyG
 layout: home
 nav_order: 3
 tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
@@ -16,14 +16,4 @@ Ferdowsi University of Mashhad, AIMC 55, Summer 2024
 
 ## Part II: Graph Neural Networks in PyG
 
-In the second part of the workshop, we'll dive deep into the realm of graph neural networks. We'll begin with a comprehensive introduction to graph data structures and the unique challenges they pose for machine learning models. To illustrate the power of graph-based representations, we'll explore the classic Karate Club dataset, a widely-used benchmark for evaluating graph learning algorithms.
-
-Next, we'll delve into the fundamentals of graph neural networks (GNNs) and their applications in node classification tasks. We'll review influential GNN research papers, such as those on Graph Convolutional Networks (GCNs), and discuss how these models can learn meaningful representations from graph-structured data. You'll have the opportunity to implement a GCN-based solution for node classification on the Karate Club dataset using the PyTorch Geometric (PyG) library.
-
-Building on this, we'll apply the principles of GNNs to a more complex real-world scenario – the task of citation network node classification. You'll learn how to leverage PyTG to design and train GNN models for predicting the characteristics of nodes (e.g., paper topics) in large-scale citation networks.
-
-Expanding our exploration, we'll investigate the application of graph neural networks in graph classification and regression tasks. You'll learn how to use PyTG to build models that can predict properties of entire graphs, such as classifying molecular structures or regressing on graph-level attributes.
-
-Finally, we'll explore the Cluster GCN architecture, which offers an efficient approach to scaling graph neural networks to large-scale datasets. You'll gain insights into the principles behind this technique and have the opportunity to experiment with it on real-world graph datasets.
-
-Throughout this second part of the workshop, you'll have ample hands-on experience with the PyTorch Geometric library, solidifying your understanding of how to design, implement, and train graph neural network models for a variety of tasks. By the end of this section, you'll be well-equipped to apply these powerful techniques to your own graph-based problems.
+In the second part, you'll dive deep into the world of graph-structured data and learn how GNNs can be leveraged to solve a variety of tasks, including node classification, graph classification, and graph regression. You'll have the opportunity to implement GNN models using the PyTorch Geometric library and apply them to real-world datasets, such as citation networks and molecular structures. Additionally, you'll explore the Cluster GCN architecture, which offers an efficient approach to scaling graph neural networks to large-scale datasets.
