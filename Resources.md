@@ -21,23 +21,23 @@ Ferdowsi University of Mashhad, AIMC 55, Summer 2024
 - **PyTorch Geometric (PyG)**: [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)
 - **Deep Graph Library (DGL)**: [Deep Graph Library](https://www.dgl.ai/)
 - **Spektral**: [Spektral](https://graphneural.network/)
-- **Graph Nets**: [Graph Nets](https://github.com/deepmind/graph_nets)
 - **Jraph**: [Jraph](https://github.com/deepmind/jraph)
+<!-- - **Graph Nets**: [Graph Nets](https://github.com/deepmind/graph_nets) -->
 
 
 ## Persons
 
 ### Jure Leskovec
 
-    * [Google Scholar](https://scholar.google.com/citations?user=Q_kKkIUAAAAJ&hl=en)
-    * [Stanford Profile](https://profiles.stanford.edu/jure-leskovec)
-    * [GNN Course](https://web.stanford.edu/class/cs224w/)
+* [Google Scholar](https://scholar.google.com/citations?user=Q_kKkIUAAAAJ&hl=en)
+* [Stanford Profile](https://profiles.stanford.edu/jure-leskovec)
+* [GNN Course](https://web.stanford.edu/class/cs224w/)
 
 ### Petar Veličković
 
-    * [Personal web site](https://petar-v.com/)
-    * [Traffic prediction with advanced Graph Neural Networks](https://deepmind.google/discover/blog/traffic-prediction-with-advanced-graph-neural-networks/)
-    * [Geometric Deep Learning](https://geometricdeeplearning.com/)
-    * [Everything is Connected: Graph Neural Networks](https://arxiv.org/pdf/2301.08210)
+* [Personal web site](https://petar-v.com/)
+* [Traffic prediction with advanced Graph Neural Networks](https://deepmind.google/discover/blog/traffic-prediction-with-advanced-graph-neural-networks/)
+* [Geometric Deep Learning](https://geometricdeeplearning.com/)
+* [Everything is Connected: Graph Neural Networks](https://arxiv.org/pdf/2301.08210)
 
 
