@@ -7,7 +7,9 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 
 {: .mb-2 }
 Sunday, 2024/09/15 (25 Shahrivar 1403), 10:00 - 12:00 AM
+
 [Graph Theory and its Applications Lab](https://gta-lab.github.io/)
+
 Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
