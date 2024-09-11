@@ -6,7 +6,7 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 ---
 
 {: .mb-2 }
-Ferdowsi University of Mashhad, AIMC 55, Summer 2024 
+Faculty of Mathematical Sciences, Ferdowsi University of Mashhad 
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
