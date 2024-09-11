@@ -12,12 +12,12 @@ logo: "/assets/images/fum-cs-logo.png"
 favicon_ico: "/assets/images/fum-logo.ico"
 
 aux_links:
+  GTA-Lab:
+    - 'https://gta-lab.github.io'
   CS Dept.:
     - 'https://fumcs.github.io'
   Mahmood Amintoosi:
     - 'https://mamintoosi.github.io'
-  Class Repository:
-    - 'https://github.com/GTA-Lab/GNN-workshop'
 
 mathjax:
   source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
