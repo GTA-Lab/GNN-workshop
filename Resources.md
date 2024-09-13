@@ -40,7 +40,3 @@ Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
 * [Geometric Deep Learning](https://geometricdeeplearning.com/)
 * [Everything is Connected: Graph Neural Networks](https://arxiv.org/pdf/2301.08210)
 
-
-![](assets/images/mathematicians.png)
-
-Graph of mathematcians, [Source: griffsgraphs](https://griffsgraphs.wordpress.com/2012/07/10/the-graph-of-mathematicians/)
