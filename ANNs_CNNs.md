@@ -13,7 +13,7 @@ Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
 
 # Graph Neural Networks Workshop (Part I)
 
-## Part I: ANNs & CNNS in PyTorch
+## Part I: ANNs & CNNs in PyTorch
 
 In the [first part of this workshop](https://fum-cs.github.io/neural-networks), we'll lay the foundation for understanding graph neural networks by revisiting the core concepts of artificial neural networks (ANNs) and convolutional neural networks (CNNs). We'll start by exploring the inner workings of ANNs & CNNs, delving into the key components that enable them to effectively extract features from grid-structured data, such as images. To provide a hands-on learning experience, we'll introduce you to the PyTorch deep learning framework, which will serve as the backbone for our subsequent explorations. You'll have the opportunity to familiarize yourself with PyTorch's essential building blocks, including tensors, autograd, and neural network modules. Building on this, we'll dive into the implementation of multilayer perceptrons (MLPs) using PyTorch, giving you a solid grasp of the fundamental architecture of deep learning models.
 
