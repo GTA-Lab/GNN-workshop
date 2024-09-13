@@ -43,4 +43,4 @@ Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
 
 ![](assets/images/mathematicians.png)
 
-Graph of mathematcians, [Source:](https://griffsgraphs.wordpress.com/2012/07/10/the-graph-of-mathematicians/)
+Graph of mathematcians, [Source: griffsgraphs](https://griffsgraphs.wordpress.com/2012/07/10/the-graph-of-mathematicians/)
