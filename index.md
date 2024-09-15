@@ -30,14 +30,14 @@ Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
 
 <a href="https://gta-lab.github.io/">Graph Theory and its Applications Lab</a>
 
-<h4>
+<h5>
 Session 1: Sunday, 2024/09/15 (25 Shahrivar 1403), 10:00 - 11:30 AM<br>
 Location: Seminar 2
 <br>
 Session 2: Monday, 2024/09/16 (26 Shahrivar 1403), 08:00 - 09:30 AM<br>
 Location: Deep Learning Class
 <br>
-</h4>
+</h5>
 
 </td>
 </tr>
