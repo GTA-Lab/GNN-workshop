@@ -21,11 +21,14 @@ Graph Neural Networks Workshop
 <img src="/GNN-workshop/assets/images/GNN-worksop-14030625.jpg" alt="GNN-Workshop" width="300">
 </td>
 <td>
-<h3>
-Sunday, 2024/09/15 (25 Shahrivar 1403), 10:00 - 12:00 AM<br>
+<h4>
+Session 1: Sunday, 2024/09/15 (25 Shahrivar 1403), 10:00 - 11:30 AM<br>
 Location: Seminar 2
 <br>
-</h3>
+Session 2: Monday, 2024/09/16 (26 Shahrivar 1403), 08:00 - 09:30 AM<br>
+Location: Deep Learning Class
+<br>
+</h4>
 <h3>
 Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
 </h3>
