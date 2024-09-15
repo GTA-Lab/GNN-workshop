@@ -21,6 +21,15 @@ Graph Neural Networks Workshop
 <img src="/GNN-workshop/assets/images/GNN-worksop-14030625.jpg" alt="GNN-Workshop" width="300">
 </td>
 <td>
+
+<div class="staffer"><img class="staffer-image" src="/GNN-workshop/assets/images/M-Amintoosi.jpg" alt="" width="300" height="300"><div><h3 class="staffer-name" id="mahmood-amintoosi"> <a href="#mahmood-amintoosi" class="anchor-heading" aria-labelledby="mahmood-amintoosi"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> <a href="https://mamintoosi.github.io/">Mahmood Amintoosi</a></h3><p><a href="mailto:m.amintoosi@um.ac.ir">m.amintoosi@um.ac.ir</a></p><p><a href="https://calendly.com/m-amintoosi/30min" class="btn btn-outline">Schedule an appointment</a></p></div>
+</div>
+<h3>
+Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
+</h3>
+
+<a href="https://gta-lab.github.io/">Graph Theory and its Applications Lab</a>
+
 <h4>
 Session 1: Sunday, 2024/09/15 (25 Shahrivar 1403), 10:00 - 11:30 AM<br>
 Location: Seminar 2
@@ -29,14 +38,7 @@ Session 2: Monday, 2024/09/16 (26 Shahrivar 1403), 08:00 - 09:30 AM<br>
 Location: Deep Learning Class
 <br>
 </h4>
-<h3>
-Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
-</h3>
 
-<a href="https://gta-lab.github.io/">Graph Theory and its Applications Lab</a>
-
-<div class="staffer"><img class="staffer-image" src="/GNN-workshop/assets/images/M-Amintoosi.jpg" alt="" width="300" height="300"><div><h3 class="staffer-name" id="mahmood-amintoosi"> <a href="#mahmood-amintoosi" class="anchor-heading" aria-labelledby="mahmood-amintoosi"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> <a href="https://mamintoosi.github.io/">Mahmood Amintoosi</a></h3><p><a href="mailto:m.amintoosi@um.ac.ir">m.amintoosi@um.ac.ir</a></p><p><a href="https://calendly.com/m-amintoosi/30min" class="btn btn-outline">Schedule an appointment</a></p></div>
-</div>
 </td>
 </tr>
 </table>
