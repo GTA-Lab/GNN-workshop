@@ -18,7 +18,7 @@ Graph Neural Networks Workshop
 <table>
 <tr>
 <td>
-<img src="/GNN-workshop/assets/images/GNN-worksop-14030625.jpg" alt="GNN-Workshop" width="300">
+<img src="/GNN-workshop/assets/images/GNN-worksop-14030921.jpg" alt="GNN-Workshop" width="300">
 </td>
 <td>
 
